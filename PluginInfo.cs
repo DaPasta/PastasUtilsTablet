@@ -7,6 +7,6 @@
     {
         public const string GUID = "com.pasta.gorillatag.funnymod";
         public const string Name = "funnymod";
-        public const string Version = "1.0.0";
+        public const string Version = "2.0.0";
     }
 }
